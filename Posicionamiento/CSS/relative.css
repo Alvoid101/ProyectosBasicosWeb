@@ -1,0 +1,17 @@
+.bloque{
+    height: 200px;
+    width: 300px;
+    background-color: rgb(255, 0, 0);
+    border: 1px solid black;
+    display: inline-block;
+}
+
+
+
+#d_diferente{
+    z-index: 2;
+    background-color: blue;
+    position: relative;
+    top: 150px;
+    left: -25px;
+}
